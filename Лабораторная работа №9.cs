@@ -118,13 +118,7 @@ namespace Лаба4
     }
 }
     
-
-
-
-
-
-
-internal interface IVisual
+    internal interface IVisual
     {
     string Name { get; set; }
     void DrawObject();
@@ -134,5 +128,5 @@ internal interface IVisual
     {
     void Plus(int pPlus);
     void Minus(int pMinus);
-} 
+    } 
     
