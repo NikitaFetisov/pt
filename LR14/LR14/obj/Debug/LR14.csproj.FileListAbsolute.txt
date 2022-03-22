@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LR14\LR14\bin\Debug\LR14.exe.config
+C:\Users\User\source\repos\LR14\LR14\bin\Debug\LR14.exe
+C:\Users\User\source\repos\LR14\LR14\bin\Debug\LR14.pdb
+C:\Users\User\source\repos\LR14\LR14\obj\Debug\LR14.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LR14\LR14\obj\Debug\LR14.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\LR14\LR14\obj\Debug\LR14.Form1.resources
+C:\Users\User\source\repos\LR14\LR14\obj\Debug\LR14.Properties.Resources.resources
+C:\Users\User\source\repos\LR14\LR14\obj\Debug\LR14.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LR14\LR14\obj\Debug\LR14.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LR14\LR14\obj\Debug\LR14.exe
+C:\Users\User\source\repos\LR14\LR14\obj\Debug\LR14.pdb
