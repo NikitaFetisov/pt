@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LR15\LR15\bin\Debug\LR15.exe.config
+C:\Users\User\source\repos\LR15\LR15\bin\Debug\LR15.exe
+C:\Users\User\source\repos\LR15\LR15\bin\Debug\LR15.pdb
+C:\Users\User\source\repos\LR15\LR15\obj\Debug\LR15.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LR15\LR15\obj\Debug\LR15.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\LR15\LR15\obj\Debug\LR15.Form1.resources
+C:\Users\User\source\repos\LR15\LR15\obj\Debug\LR15.Properties.Resources.resources
+C:\Users\User\source\repos\LR15\LR15\obj\Debug\LR15.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LR15\LR15\obj\Debug\LR15.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LR15\LR15\obj\Debug\LR15.exe
+C:\Users\User\source\repos\LR15\LR15\obj\Debug\LR15.pdb
